@@ -10,7 +10,7 @@ Follow the Codes To The Latter.
 Install The Folloing
 
 ```
-* Python 
+Python 
 ```
 
 ### Installing
@@ -20,13 +20,13 @@ Install The Folloing
 <!--Say what the step will be-->
 
 ```
-* Give the example
+
 ```
 
 <!--And repeat-->
 
 ```
-* <!--until finished-->
+
 ```
 
 End with an example of getting some data out of the system or using it for a little demo
@@ -48,7 +48,7 @@ End with an example of getting some data out of the system or using it for a lit
 <!--Explain what these tests test and why-->
 
 ```
-* <!--Give an example-->
+
 ```
 
 ## Deployment
