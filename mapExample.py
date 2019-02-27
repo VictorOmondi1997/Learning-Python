@@ -1,0 +1,3 @@
+map(lambda *a: a, range(3))#without wrapping in list...
+a= list(map(lambda *a: a,range(1,27), 'abcdefghijklmnopqrstuvwxyz'))
+print(a)

@@ -1,0 +1,11 @@
+def multiplication(a,b=1):
+	"""Return a multiplied by b. """
+	return a*b
+specialAttributes = [
+	"__doc__", "__name__", "__qualname__", "__module__",
+	"__defaults__", "__code__", "__globals__", "__dict__",
+	"__closure__", "__annotations__", "__kwdefaults__", 
+]
+
+for attribute in specialAttributes:
+	print(attribute, '->', getattr(multiplication, attribute))
